@@ -10,7 +10,7 @@ Whether you work in an organization that uses test-driven development or in an o
 
 And this is the reason why Udacity has tasked me with this project!
 
-# How To Run The Feed Reader Test
+## How To Run The Feed Reader Test
 
 1. Head on over to https://github.com/alianza-clyne/feed-reader-testing.
 2. Click on the "Clone or Download" button.
