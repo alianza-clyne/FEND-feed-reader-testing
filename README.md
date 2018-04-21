@@ -18,4 +18,4 @@ And this is the reason why Udacity has tasked me with this project!
 4. Double click on the index.html file so that it opens up in a web browser.
 5. At the bottom of the page, you'll see a section that says "Jasmine" at the top. In this section, you'll be able to see the tests. Here is what this looks like.
 ![Screenshot of Jasmine feed reader test](https://image.ibb.co/jDuAtc/jasmine_test_screenshot.jpg)
-Having difficulty viewing the image above? Just click on it, and a larger version should open up in a new tab!
+**Having difficulty viewing the image above?** Just click on it, and a larger version should open up in a new tab!
